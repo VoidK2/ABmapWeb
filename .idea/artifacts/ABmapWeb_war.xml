@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ABmapWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ABmapWeb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ABmapWeb-0.0.2-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ABmapWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
